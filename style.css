@@ -53,6 +53,7 @@ button {
     text-transform: uppercase !important;
     cursor: pointer;
     transition: 0.3s ease;
+    border-radius: 5px !important;
 }
 
 button:hover {
